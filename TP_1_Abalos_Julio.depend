@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1472311081 source:c:\users\alumno\downloads\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 c:\users\alumno\downloads\tp_1_cascara\funciones.h
+
+1473389832 source:f:\utn\programacion\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 f:\utn\programacion\tp_1\funciones.h
+
+1473405554 source:f:\utn\programacion\tp_1\operaciones.c
+
+1473446812 source:c:\users\julio\documents\github\tp_laboratorio_1\funciones.c
+
+1473456394 source:c:\users\julio\documents\github\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473405594 c:\users\julio\documents\github\tp_laboratorio_1\operaciones.h
+
+1473444271 c:\users\julio\documents\github\tp_laboratorio_1\funciones.h
+
