@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1476825636 source:c:\users\julio\desktop\tp2.abalos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1476825611 source:c:\users\julio\desktop\tp2.abalos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476998302 c:\users\julio\desktop\tp2.abalos\funciones.h
+
